@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "11315"
+        ],
+        "11315": {
+            "uid": "11315",
+            "name": "PARK7",
+            "description": "Parkinsonism associated deglycase",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.23",
+            "otheraliases": "DJ-1, DJ1, GATD2, HEL-S-67p",
+            "otherdesignations": "Parkinson disease protein 7|Parkinson disease (autosomal recessive, early onset) 7|epididymis secretory sperm binding protein Li 67p|maillard deglycase|oncogene DJ1|parkinson protein 7|protein DJ-1|protein deglycase DJ-1|protein/nucleic acid deglycase DJ-1",
+            "nomenclaturesymbol": "PARK7",
+            "nomenclaturename": "Parkinsonism associated deglycase",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "602533"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504,
+                    "exoncount": 7
+                }
+            ],
+            "geneweight": 33189,
+            "summary": "The product of this gene belongs to the peptidase C56 family of proteins. It acts as a positive regulator of androgen receptor-dependent transcription. It may also function as a redox-sensitive chaperone, as a sensor for oxidative stress, and it apparently protects neurons against oxidative stress and cell death. Defects in this gene are the cause of autosomal recessive early-onset Parkinson disease 7. Two transcript variants encoding the same protein have been identified for this gene. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 7961710,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 7492674,
+                    "chrstop": 7516443
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 7492674,
+                    "chrstop": 7516443
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 7492674,
+                    "chrstop": 7516443
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 7492674,
+                    "chrstop": 7516443
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961710,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 7961653,
+                    "chrstop": 7985504
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 8021770,
+                    "chrstop": 8045564
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 8021770,
+                    "chrstop": 8045564
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 8021770,
+                    "chrstop": 8045564
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 8021713,
+                    "chrstop": 8045341
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 7169315,
+                    "chrstop": 7193162
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 8009468,
+                    "chrstop": 8033096
+                }
+            ]
+        }
+    }
+}

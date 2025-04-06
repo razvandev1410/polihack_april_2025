@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "3362"
+        ],
+        "3362": {
+            "uid": "3362",
+            "name": "HTR6",
+            "description": "5-hydroxytryptamine receptor 6",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.13",
+            "otheraliases": "5-HT6, 5-HT6R",
+            "otherdesignations": "5-hydroxytryptamine receptor 6|5-hydroxytryptamine (serotonin) receptor 6, G protein-coupled|serotonin receptor 6",
+            "nomenclaturesymbol": "HTR6",
+            "nomenclaturename": "5-hydroxytryptamine receptor 6",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "601109"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965,
+                    "exoncount": 3
+                }
+            ],
+            "geneweight": 5493,
+            "summary": "This gene encodes a protein that belongs to the seven-transmembrane G protein-coupled receptor family of proteins. The encoded protein couples with the Gs alpha subunit and stimulates adenylate cyclase to activate the cyclic AMP-dependent signaling pathway. This receptor is thought to regulate cholinergic neuronal transmission in the brain. Several antidepressants and antipsychotic drugs have a high affinity for this receptor. [provided by RefSeq, Aug 2013]",
+            "chrsort": "01",
+            "chrstart": 19664874,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19488251,
+                    "chrstop": 19504341
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19488251,
+                    "chrstop": 19504341
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19488251,
+                    "chrstop": 19504341
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19488251,
+                    "chrstop": 19504341
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19664874,
+                    "chrstop": 19680965
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19991367,
+                    "chrstop": 20007458
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19991367,
+                    "chrstop": 20007458
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19991367,
+                    "chrstop": 20007458
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19991779,
+                    "chrstop": 20006054
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 18237852,
+                    "chrstop": 18251586
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 20101040,
+                    "chrstop": 20115312
+                }
+            ]
+        }
+    }
+}

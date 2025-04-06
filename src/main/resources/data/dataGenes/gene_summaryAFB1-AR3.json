@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "246181"
+        ],
+        "246181": {
+            "uid": "246181",
+            "name": "AKR7L",
+            "description": "aldo-keto reductase family 7 like (gene/pseudogene)",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p35-p36.1",
+            "otheraliases": "AFAR3, AFB1-AR 3, AFB1-AR3, AKR7A4",
+            "otherdesignations": "aflatoxin B1 aldehyde reductase member 4|AFB1 aldehyde reductase 3|aldo-keto reductase family 7 pseudogene|aldo-keto reductase family 7-like|aldoketoreductase 7-like",
+            "nomenclaturesymbol": "AKR7L",
+            "nomenclaturename": "aldo-keto reductase family 7 like (gene/pseudogene)",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "608478"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981,
+                    "exoncount": 7
+                }
+            ],
+            "geneweight": 391,
+            "summary": "This gene is one of three aldo-keto reductase genes that are present in a cluster on the p arm of chromosome 1. The encoded proteins are involved in the reduction of the dialdehyde protein-binding form of aflatoxin B1 (AFB1) to the non-binding AFB1 dialcohol. It has been speculated that this family member encodes a selenoprotein, which includes a selenocysteine (Sec) residue in lieu of a UGA translational termination codon. However, there is no evidence that such a protein is produced in vivo. The alternative interpretation is that this family member is a segregating pseudogene, where some individuals have an allele that encodes a functional enzyme, while other individuals have an allele encoding a protein that is predicted to be non-functional. [provided by RefSeq, Feb 2017]",
+            "chrsort": "01",
+            "chrstart": 19265981,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19097647,
+                    "chrstop": 19089503
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19097647,
+                    "chrstop": 19089503
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19097647,
+                    "chrstop": 19089503
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19097647,
+                    "chrstop": 19089503
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19274121,
+                    "chrstop": 19265981
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19600615,
+                    "chrstop": 19592475
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19600615,
+                    "chrstop": 19592475
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19600615,
+                    "chrstop": 19592475
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19600567,
+                    "chrstop": 19592475
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 17846935,
+                    "chrstop": 17838841
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 19724524,
+                    "chrstop": 19701816
+                }
+            ]
+        }
+    }
+}

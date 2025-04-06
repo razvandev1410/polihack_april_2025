@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "10465"
+        ],
+        "10465": {
+            "uid": "10465",
+            "name": "PPIH",
+            "description": "peptidylprolyl isomerase H",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p34.2",
+            "otheraliases": "CYP-20, CYPH, SnuCyp-20, USA-CYP",
+            "otherdesignations": "peptidyl-prolyl cis-trans isomerase H|PPIase h|U-snRNP-associated cyclophilin SnuCyp-20|U-snRNP-associated cyclophilin SunCyp-20|USA-CyP SnuCyp-20|cyclophilin H|rotamase H|small nuclear ribonucleoprotein particle-specific cyclophilin H",
+            "nomenclaturesymbol": "PPIH",
+            "nomenclaturename": "peptidylprolyl isomerase H",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "606095"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42658422,
+                    "chrstop": 42681653,
+                    "exoncount": 16
+                }
+            ],
+            "geneweight": 1981,
+            "summary": "The protein encoded by this gene is a member of the peptidyl-prolyl cis-trans isomerase (PPIase) family. PPIases catalyze the cis-trans isomerization of proline imidic peptide bonds in oligopeptides and accelerate the folding of proteins. This protein is a specific component of the complex that includes pre-mRNA processing factors PRPF3, PRPF4, and PRPF18, as well as U4/U5/U6 tri-snRNP. This protein has been shown to possess PPIase activity and may act as a protein chaperone that mediates the interactions between different proteins inside the spliceosome. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 42658422,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42658422,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 42528917,
+                    "chrstop": 42552148
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42658422,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 42528917,
+                    "chrstop": 42552148
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42658422,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 42528917,
+                    "chrstop": 42552148
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42658422,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 42528917,
+                    "chrstop": 42547252
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 42657769,
+                    "chrstop": 42681653
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43124093,
+                    "chrstop": 43142428
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43124093,
+                    "chrstop": 43142428
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43124093,
+                    "chrstop": 43142428
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43123705,
+                    "chrstop": 43142428
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 41244217,
+                    "chrstop": 41262599
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 43240905,
+                    "chrstop": 43259286
+                }
+            ]
+        }
+    }
+}

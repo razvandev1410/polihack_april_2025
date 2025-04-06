@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "1296"
+        ],
+        "1296": {
+            "uid": "1296",
+            "name": "COL8A2",
+            "description": "collagen type VIII alpha 2 chain",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p34.3",
+            "otheraliases": "FECD, FECD1, PPCD, PPCD2",
+            "otherdesignations": "collagen alpha-2(VIII) chain|collagen VIII, alpha-2 polypeptide|collagen, type VIII, alpha 2|endothelial collagen",
+            "nomenclaturesymbol": "COL8A2",
+            "nomenclaturename": "collagen type VIII alpha 2 chain",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "120252"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36125221,
+                    "chrstop": 36095238,
+                    "exoncount": 4
+                }
+            ],
+            "geneweight": 3114,
+            "summary": "This gene encodes the alpha 2 chain of type VIII collagen. This protein is a major component of the basement membrane of the corneal endothelium and forms homo- or heterotrimers with alpha 1 (VIII) type collagens. Defects in this gene are associated with Fuchs endothelial corneal dystrophy and posterior polymorphous corneal dystrophy type 2. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jun 2014]",
+            "chrsort": "01",
+            "chrstart": 36095238,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36125221,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 35988101,
+                    "chrstop": 35958118
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36125221,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 35988101,
+                    "chrstop": 35958118
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36125221,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 35988101,
+                    "chrstop": 35958118
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36125221,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 35988101,
+                    "chrstop": 35958118
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 36126206,
+                    "chrstop": 36095238
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 36590822,
+                    "chrstop": 36560839
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 36590822,
+                    "chrstop": 36560839
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 36590822,
+                    "chrstop": 36560839
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 36591304,
+                    "chrstop": 36560839
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 34682527,
+                    "chrstop": 34677987
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 36682170,
+                    "chrstop": 36677162
+                }
+            ]
+        }
+    }
+}

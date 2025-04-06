@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "249"
+        ],
+        "249": {
+            "uid": "249",
+            "name": "ALPL",
+            "description": "alkaline phosphatase, biomineralization associated",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.12",
+            "otheraliases": "AP-TNAP, APTNAP, HOPS, HPPA, HPPC, HPPI, HPPO, TNALP, TNAP, TNS-ALP, TNSALP",
+            "otherdesignations": "alkaline phosphatase, tissue-nonspecific isozyme|alkaline phosphatase liver/bone/kidney isozyme|alkaline phosphatase, liver/bone/kidney|liver/bone/kidney-type alkaline phosphatase|phosphoamidase|phosphocreatine phosphatase|tissue non-specific alkaline phosphatase|tissue-nonspecific ALP",
+            "nomenclaturesymbol": "ALPL",
+            "nomenclaturename": "alkaline phosphatase, biomineralization associated",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "171760"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578409,
+                    "exoncount": 14
+                }
+            ],
+            "geneweight": 23034,
+            "summary": "This gene encodes a member of the alkaline phosphatase family of proteins. There are at least four distinct but related alkaline phosphatases: intestinal, placental, placental-like, and liver/bone/kidney (tissue non-specific). The first three are located together on chromosome 2, while the tissue non-specific form is located on chromosome 1. The product of this gene is a membrane bound glycosylated enzyme that is not expressed in any particular tissue and is, therefore, referred to as the tissue-nonspecific form of the enzyme. Alternative splicing results in multiple transcript variants, at least one of which encodes a preproprotein that is proteolytically processed to generate the mature enzyme. This enzyme may play a role in bone mineralization. Mutations in this gene have been linked to hypophosphatasia, a disorder that is characterized by hypercalcemia and skeletal defects. [provided by RefSeq, Oct 2015]",
+            "chrsort": "01",
+            "chrstart": 21508983,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578409
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 21332915,
+                    "chrstop": 21402322
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578409
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 21332915,
+                    "chrstop": 21402322
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578409
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 21332915,
+                    "chrstop": 21402322
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578409
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 21332915,
+                    "chrstop": 21402322
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 21508983,
+                    "chrstop": 21578411
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 21835476,
+                    "chrstop": 21904902
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 21835476,
+                    "chrstop": 21904902
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 21835476,
+                    "chrstop": 21904902
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 21835474,
+                    "chrstop": 21904904
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 20079619,
+                    "chrstop": 20148671
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 21947890,
+                    "chrstop": 22016919
+                }
+            ]
+        }
+    }
+}

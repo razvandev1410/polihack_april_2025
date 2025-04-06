@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "832"
+        ],
+        "832": {
+            "uid": "832",
+            "name": "CAPZB",
+            "description": "capping actin protein of muscle Z-line subunit beta",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.13",
+            "otheraliases": "CAPB, CAPPB, CAPZ",
+            "otherdesignations": "F-actin-capping protein subunit beta|capZ beta|capping actin protein of muscle Z-line beta subunit|capping protein (actin filament) muscle Z-line, beta|epididymis secretory sperm binding protein",
+            "nomenclaturesymbol": "CAPZB",
+            "nomenclaturename": "capping actin protein of muscle Z-line subunit beta",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "601572"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774,
+                    "exoncount": 17
+                }
+            ],
+            "geneweight": 4623,
+            "summary": "This gene encodes the beta subunit of the barbed-end actin binding protein, which belongs to the F-actin capping protein family. The capping protein is a heterodimeric actin capping protein that blocks actin filament assembly and disassembly at the fast growing (barbed) filament ends and functions in regulating actin filament dynamics as well as in stabilizing actin filament lengths in muscle and nonmuscle cells. A pseudogene of this gene is located on the long arm of chromosome 2. Multiple alternatively spliced transcript variants encoding different isoforms have been found.[provided by RefSeq, Aug 2013]",
+            "chrsort": "01",
+            "chrstart": 19338774,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19308991,
+                    "chrstop": 19162309
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19308991,
+                    "chrstop": 19162309
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19308991,
+                    "chrstop": 19162309
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 19308991,
+                    "chrstop": 19162309
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 19485538,
+                    "chrstop": 19338774
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19812032,
+                    "chrstop": 19665268
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19812032,
+                    "chrstop": 19665268
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19812032,
+                    "chrstop": 19665268
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 19812065,
+                    "chrstop": 19665266
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 18058371,
+                    "chrstop": 17911592
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 19921334,
+                    "chrstop": 19774568
+                }
+            ]
+        }
+    }
+}

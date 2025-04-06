@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "8718"
+        ],
+        "8718": {
+            "uid": "8718",
+            "name": "TNFRSF25",
+            "description": "TNF receptor superfamily member 25",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.31",
+            "otheraliases": "APO-3, DDR3, DR3, GEF720, LARD, PLEKHG5, TNFRSF12, TR3, TRAMP, WSL-1, WSL-LR",
+            "otherdesignations": "tumor necrosis factor receptor superfamily member 25|Guanine nucleotide exchange factor 720|PH domain-containing family G member 5|Pleckstrin homology domain-containing family G member 5|apoptosis inducing receptor|apoptosis-inducing receptor AIR|apoptosis-mediating receptor DR3|apoptosis-mediating receptor TRAMP|death domain receptor 3 soluble form|death receptor beta|lymphocyte-associated receptor of death|protein WSL-1|tumor necrosis factor receptor superfamily, member 12 (translocating chain-association membrane protein)",
+            "nomenclaturesymbol": "TNFRSF25",
+            "nomenclaturename": "TNF receptor superfamily member 25",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "603366"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785,
+                    "exoncount": 10
+                }
+            ],
+            "geneweight": 4696,
+            "summary": "The protein encoded by this gene is a member of the TNF-receptor superfamily. This receptor is expressed preferentially in the tissues enriched in lymphocytes, and it may play a role in regulating lymphocyte homeostasis. This receptor has been shown to stimulate NF-kappa B activity and regulate cell apoptosis. The signal transduction of this receptor is mediated by various death domain containing adaptor proteins. Knockout studies in mice suggested the role of this gene in the removal of self-reactive T cells in the thymus. Multiple alternatively spliced transcript variants of this gene encoding distinct isoforms have been reported, most of which are potentially secreted molecules. The alternative splicing of this gene in B and T cells encounters a programmed change upon T-cell activation, which predominantly produces full-length, membrane bound isoforms, and is thought to be involved in controlling lymphocyte proliferation induced by T-cell activation. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 6460785,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5991814,
+                    "chrstop": 5986427
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5991814,
+                    "chrstop": 5986427
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5991814,
+                    "chrstop": 5986427
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5991814,
+                    "chrstop": 5986427
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466172,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6466194,
+                    "chrstop": 6460785
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6526232,
+                    "chrstop": 6520845
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6526232,
+                    "chrstop": 6520845
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6526232,
+                    "chrstop": 6520845
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6527431,
+                    "chrstop": 6520786
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 5673797,
+                    "chrstop": 5668753
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 6514767,
+                    "chrstop": 6509748
+                }
+            ]
+        }
+    }
+}

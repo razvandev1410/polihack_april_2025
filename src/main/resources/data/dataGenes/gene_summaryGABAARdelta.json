@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "2563"
+        ],
+        "2563": {
+            "uid": "2563",
+            "name": "GABRD",
+            "description": "gamma-aminobutyric acid type A receptor subunit delta",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.33",
+            "otheraliases": "EIG10, EJM7, GABAARdelta, GEFSP5",
+            "otherdesignations": "gamma-aminobutyric acid receptor subunit delta|GABA(A) receptor subunit delta|GABA(A) receptor, delta|GABA-A receptor, delta polypeptide|GABAAR subunit delta|gamma-aminobutyric acid (GABA) A receptor, delta|gamma-aminobutyric acid type A receptor delta subunit",
+            "nomenclaturesymbol": "GABRD",
+            "nomenclaturename": "gamma-aminobutyric acid type A receptor subunit delta",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "137163"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757,
+                    "exoncount": 10
+                }
+            ],
+            "geneweight": 2324,
+            "summary": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the mammalian brain where it acts at GABA-A receptors, which are ligand-gated chloride channels. Chloride conductance of these channels can be modulated by agents such as benzodiazepines that bind to the GABA-A receptor. The GABA-A receptor is generally pentameric and there are five types of subunits: alpha, beta, gamma, delta, and rho. This gene encodes the delta subunit. Mutations in this gene have been associated with susceptibility to generalized epilepsy with febrile seizures, type 5. Alternatively spliced transcript variants have been described for this gene, but their biological validity has not been determined. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 2019344,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 1454896,
+                    "chrstop": 1466309
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 1454896,
+                    "chrstop": 1466309
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 1454896,
+                    "chrstop": 1466309
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 1454896,
+                    "chrstop": 1466309
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 2019344,
+                    "chrstop": 2030757
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 1950783,
+                    "chrstop": 1962196
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 1950783,
+                    "chrstop": 1962196
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 1950783,
+                    "chrstop": 1962196
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 1950767,
+                    "chrstop": 1962191
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 1233787,
+                    "chrstop": 1239602
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 1937891,
+                    "chrstop": 1949315
+                }
+            ]
+        }
+    }
+}

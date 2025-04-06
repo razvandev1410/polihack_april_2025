@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "9563"
+        ],
+        "9563": {
+            "uid": "9563",
+            "name": "H6PD",
+            "description": "hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.22",
+            "otheraliases": "CORTRD1, G6PDH, GDH, H6PDH",
+            "otherdesignations": "GDH/6PGL endoplasmic bifunctional protein|6-phosphogluconolactonase|G6PD, H form|glucose 1- dehydrogenase|glucose dehydrogenase|glucose dehyrogenase|glucose-6-phosphate dehydrogenase, salivary",
+            "nomenclaturesymbol": "H6PD",
+            "nomenclaturename": "hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "138090"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234773,
+                    "chrstop": 9271336,
+                    "exoncount": 7
+                }
+            ],
+            "geneweight": 3642,
+            "summary": "There are 2 forms of glucose-6-phosphate dehydrogenase. G form is X-linked and H form, encoded by this gene, is autosomally linked. This H form shows activity with other hexose-6-phosphates, especially galactose-6-phosphate, whereas the G form is specific for glucose-6-phosphate. Both forms are present in most tissues, but H form is not found in red cells. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 9234773,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234773,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 8769417,
+                    "chrstop": 8805953
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234773,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 8769417,
+                    "chrstop": 8805953
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234773,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 8769417,
+                    "chrstop": 8805953
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234773,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 8769417,
+                    "chrstop": 8805953
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 9234766,
+                    "chrstop": 9271336
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 9294832,
+                    "chrstop": 9331395
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 9294832,
+                    "chrstop": 9331395
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 9294832,
+                    "chrstop": 9331395
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 9294821,
+                    "chrstop": 9331395
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 8445790,
+                    "chrstop": 8481723
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 9285082,
+                    "chrstop": 9321615
+                }
+            ]
+        }
+    }
+}

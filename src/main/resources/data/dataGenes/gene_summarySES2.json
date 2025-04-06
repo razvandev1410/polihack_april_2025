@@ -1,0 +1,259 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "83667"
+        ],
+        "83667": {
+            "uid": "83667",
+            "name": "SESN2",
+            "description": "sestrin 2",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p35.3",
+            "otheraliases": "HI95, SES2, SEST2",
+            "otherdesignations": "sestrin-2|hypoxia induced gene 95|hypoxia-induced",
+            "nomenclaturesymbol": "SESN2",
+            "nomenclaturename": "sestrin 2",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "607767"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259517,
+                    "chrstop": 28282490,
+                    "exoncount": 10
+                }
+            ],
+            "geneweight": 9528,
+            "summary": "This gene encodes a member of the sestrin family of PA26-related proteins. The encoded protein may function in the regulation of cell growth and survival. This protein may be involved in cellular response to different stress conditions. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 28259517,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259517,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28101352,
+                    "chrstop": 28124324
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259517,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28101352,
+                    "chrstop": 28124324
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259517,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28101352,
+                    "chrstop": 28124324
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259517,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28101352,
+                    "chrstop": 28124324
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28259451,
+                    "chrstop": 28282490
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NW_018654706.1",
+                    "chrstart": 53161,
+                    "chrstop": 76134
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28586028,
+                    "chrstop": 28609001
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28586028,
+                    "chrstop": 28609001
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28586028,
+                    "chrstop": 28609001
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28585962,
+                    "chrstop": 28609001
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 26842330,
+                    "chrstop": 26865371
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 28701468,
+                    "chrstop": 28724500
+                }
+            ]
+        }
+    }
+}

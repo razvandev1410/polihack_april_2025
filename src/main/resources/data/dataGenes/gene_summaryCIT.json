@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "11113"
+        ],
+        "11113": {
+            "uid": "11113",
+            "name": "CIT",
+            "description": "citron rho-interacting serine/threonine kinase",
+            "status": "",
+            "currentid": "",
+            "chromosome": "12",
+            "geneticsource": "genomic",
+            "maplocation": "12q24.23",
+            "otheraliases": "CITK, CRIK, MCPH17, STK21",
+            "otherdesignations": "citron Rho-interacting kinase|citron (rho-interacting, serine/threonine kinase 21)|serine/threonine kinase 21|serine/threonine-protein kinase 21",
+            "nomenclaturesymbol": "CIT",
+            "nomenclaturename": "citron rho-interacting serine/threonine kinase",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "605629"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "12",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790,
+                    "exoncount": 51
+                }
+            ],
+            "geneweight": 3345,
+            "summary": "This gene encodes a serine/threonine-protein kinase that functions in cell division. Together with the kinesin KIF14, this protein localizes to the central spindle and midbody, and functions to promote efficient cytokinesis. This protein is involved in central nervous system development. Polymorphisms in this gene are associated with bipolar disorder and risk for schizophrenia. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2011]",
+            "chrsort": "12",
+            "chrstart": 119685790,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060936.1",
+                    "chrstart": 119864646,
+                    "chrstop": 119673074
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060936.1",
+                    "chrstart": 119864646,
+                    "chrstop": 119673074
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060936.1",
+                    "chrstart": 119864646,
+                    "chrstop": 119673074
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060936.1",
+                    "chrstart": 119864646,
+                    "chrstop": 119673074
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000012.12",
+                    "chrstart": 119877319,
+                    "chrstop": 119685790
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000012.11",
+                    "chrstart": 120315123,
+                    "chrstop": 120123595
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000012.11",
+                    "chrstart": 120315123,
+                    "chrstop": 120123595
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000012.11",
+                    "chrstart": 120315123,
+                    "chrstop": 120123595
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000012.11",
+                    "chrstart": 120315094,
+                    "chrstop": 120123594
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000144.1",
+                    "chrstart": 117325160,
+                    "chrstop": 117131726
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018923.2",
+                    "chrstart": 120282751,
+                    "chrstop": 120091102
+                }
+            ]
+        }
+    }
+}

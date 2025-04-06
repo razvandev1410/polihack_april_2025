@@ -1,0 +1,217 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "128240"
+        ],
+        "128240": {
+            "uid": "128240",
+            "name": "NAXE",
+            "description": "NAD(P)HX epimerase",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1q22",
+            "otheraliases": "AIBP, APOA1BP, PEBEL, YJEFN1",
+            "otherdesignations": "NAD(P)H-hydrate epimerase|AI-BP|apoA-I binding protein|apolipoprotein A-I-binding protein|yjeF N-terminal domain-containing protein 1|yjeF_N1",
+            "nomenclaturesymbol": "NAXE",
+            "nomenclaturename": "NAD(P)HX epimerase",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "608862"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156594298,
+                    "exoncount": 6
+                }
+            ],
+            "geneweight": 2418,
+            "summary": "The product of this gene interacts with apolipoprotein A-I (apoA-I), the major apolipoprotein of high-density lipoproteins (HDLs). It is secreted into some bodily fluids, and its synthesis and secretion are stimulated in vitro by incubating cells with apoA-I. The human genome contains related pseudogenes. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 156591775,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156594298
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_025791758.1",
+                    "chrstart": 150332,
+                    "chrstop": 152855
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 155728151,
+                    "chrstop": 155730674
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156594298
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_025791758.1",
+                    "chrstart": 150332,
+                    "chrstop": 152855
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 155728151,
+                    "chrstop": 155730674
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156594298
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_025791758.1",
+                    "chrstart": 150332,
+                    "chrstop": 152855
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 155728151,
+                    "chrstop": 155730674
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156594298
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NW_025791758.1",
+                    "chrstart": 150332,
+                    "chrstop": 152855
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 155728151,
+                    "chrstop": 155730674
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 156591775,
+                    "chrstop": 156599817
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 156561567,
+                    "chrstop": 156564090
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 156561567,
+                    "chrstop": 156564090
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 156561567,
+                    "chrstop": 156564090
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 156561553,
+                    "chrstop": 156564090
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 127919236,
+                    "chrstop": 127921769
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 157957747,
+                    "chrstop": 157960280
+                }
+            ]
+        }
+    }
+}

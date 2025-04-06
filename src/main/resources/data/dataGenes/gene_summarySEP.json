@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "6414"
+        ],
+        "6414": {
+            "uid": "6414",
+            "name": "SELENOP",
+            "description": "selenoprotein P",
+            "status": "",
+            "currentid": "",
+            "chromosome": "5",
+            "geneticsource": "genomic",
+            "maplocation": "5p12",
+            "otheraliases": "SELP, SEPP, SEPP1, SeP",
+            "otherdesignations": "selenoprotein P|selenoprotein P, plasma, 1",
+            "nomenclaturesymbol": "SELENOP",
+            "nomenclaturename": "selenoprotein P",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "601484"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "5",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879,
+                    "exoncount": 7
+                }
+            ],
+            "geneweight": 10371,
+            "summary": "This gene encodes a selenoprotein that is predominantly expressed in the liver and secreted into the plasma. This selenoprotein is unique in that it contains multiple selenocysteine (Sec) residues per polypeptide (10 in human), and accounts for most of the selenium in plasma. It has been implicated as an extracellular antioxidant, and in the transport of selenium to extra-hepatic tissues via apolipoprotein E receptor-2 (apoER2). Mice lacking this gene exhibit neurological dysfunction, suggesting its importance in normal brain function. Sec is encoded by the UGA codon, which normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, designated the Sec insertion sequence (SECIS) element, that is necessary for the recognition of UGA as a Sec codon, rather than as a stop signal. The mRNA for this selenoprotein contains two SECIS elements. The use of alternative polyadenylation sites, one located in between the two SECIS elements, results in two populations of mRNAs containing either both (predominant) or just the upstream SECIS element (PMID:27881738). Alternatively spliced transcript variants have also been found for this gene. [provided by RefSeq, Oct 2018]",
+            "chrsort": "05",
+            "chrstart": 42799879,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060929.1",
+                    "chrstart": 43064835,
+                    "chrstop": 43052822
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060929.1",
+                    "chrstart": 43064835,
+                    "chrstop": 43052822
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060929.1",
+                    "chrstart": 43064835,
+                    "chrstop": 43052822
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060929.1",
+                    "chrstart": 43064835,
+                    "chrstop": 43052822
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42811891,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000005.10",
+                    "chrstart": 42812075,
+                    "chrstop": 42799879
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000005.9",
+                    "chrstart": 42811993,
+                    "chrstop": 42799981
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000005.9",
+                    "chrstart": 42811993,
+                    "chrstop": 42799981
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000005.9",
+                    "chrstart": 42811993,
+                    "chrstop": 42799981
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000005.9",
+                    "chrstart": 42812023,
+                    "chrstop": 42799981
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000137.1",
+                    "chrstart": 42763444,
+                    "chrstop": 42751402
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018916.2",
+                    "chrstart": 42813919,
+                    "chrstop": 42801877
+                }
+            ]
+        }
+    }
+}

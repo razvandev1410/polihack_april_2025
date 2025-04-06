@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "5195"
+        ],
+        "5195": {
+            "uid": "5195",
+            "name": "PEX14",
+            "description": "peroxisomal biogenesis factor 14",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.22",
+            "otheraliases": "NAPP2, PBD13A, Pex14p, dJ734G22.2",
+            "otherdesignations": "peroxisomal membrane protein PEX14|NF-E2 associated polypeptide 2|PTS1 receptor docking protein|peroxin-14|peroxisomal membrane anchor protein PEX14|peroxisomal membrane anchor protein Pex14p",
+            "nomenclaturesymbol": "PEX14",
+            "nomenclaturename": "peroxisomal biogenesis factor 14",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "601791"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474949,
+                    "chrstop": 10630757,
+                    "exoncount": 13
+                }
+            ],
+            "geneweight": 2937,
+            "summary": "This gene encodes an essential component of the peroxisomal import machinery. The protein is integrated into peroxisome membranes with its C-terminus exposed to the cytosol, and interacts with the cytosolic receptor for proteins containing a PTS1 peroxisomal targeting signal. The protein also functions as a transcriptional corepressor and interacts with a histone deacetylase. A mutation in this gene results in one form of Zellweger syndrome. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 10474949,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474949,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10018553,
+                    "chrstop": 10174354
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474949,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10018553,
+                    "chrstop": 10174354
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474949,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10018553,
+                    "chrstop": 10174354
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474949,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10018557,
+                    "chrstop": 10174354
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10474945,
+                    "chrstop": 10630757
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10535006,
+                    "chrstop": 10690814
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10535006,
+                    "chrstop": 10690814
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10535006,
+                    "chrstop": 10690814
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10535002,
+                    "chrstop": 10690814
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 9688563,
+                    "chrstop": 9844850
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 10522759,
+                    "chrstop": 10678539
+                }
+            ]
+        }
+    }
+}

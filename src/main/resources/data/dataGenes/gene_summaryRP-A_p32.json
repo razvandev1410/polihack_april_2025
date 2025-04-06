@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "6118"
+        ],
+        "6118": {
+            "uid": "6118",
+            "name": "RPA2",
+            "description": "replication protein A2",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p35.3",
+            "otheraliases": "REPA2, RP-A p32, RP-A p34, RPA32",
+            "otherdesignations": "replication protein A 32 kDa subunit|RF-A protein 2|replication factor A protein 2|replication protein A 34 kDa subunit",
+            "nomenclaturesymbol": "RPA2",
+            "nomenclaturename": "replication protein A2",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "179836"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523,
+                    "exoncount": 10
+                }
+            ],
+            "geneweight": 9431,
+            "summary": "This gene encodes a subunit of the heterotrimeric Replication Protein A (RPA) complex, which binds to single-stranded DNA (ssDNA), forming a nucleoprotein complex that plays an important role in DNA metabolism, being involved in DNA replication, repair, recombination, telomere maintenance, and co-ordinating the cellular response to DNA damage through activation of the ataxia telangiectasia and Rad3-related protein (ATR) kinase. The RPA complex protects single-stranded DNA from nucleases, prevents formation of secondary structures that would interfere with repair, and co-ordinates the recruitment and departure of different genome maintenance factors. The heterotrimeric complex has two different modes of ssDNA binding, a low-affinity and high-affinity mode, determined by which oligonucleotide/oligosaccharide-binding (OB) domains of the complex are utilized, and differing in the length of DNA bound. This subunit contains a single OB domain that participates in high-affinity DNA binding and also contains a winged helix domain at its carboxy terminus, which interacts with many genome maintenance protein. Post-translational modifications of the RPA complex also plays a role in co-ordinating different damage response pathways. [provided by RefSeq, Sep 2017]",
+            "chrsort": "01",
+            "chrstart": 27891523,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27756899,
+                    "chrstop": 27733625
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27756899,
+                    "chrstop": 27733625
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27756899,
+                    "chrstop": 27733625
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27756899,
+                    "chrstop": 27733625
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27914796,
+                    "chrstop": 27891523
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28241307,
+                    "chrstop": 28218034
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28241307,
+                    "chrstop": 28218034
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28241307,
+                    "chrstop": 28218034
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 28241254,
+                    "chrstop": 28218034
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 26497362,
+                    "chrstop": 26473869
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 28356735,
+                    "chrstop": 28333547
+                }
+            ]
+        }
+    }
+}

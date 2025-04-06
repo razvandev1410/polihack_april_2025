@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "8547"
+        ],
+        "8547": {
+            "uid": "8547",
+            "name": "FCN3",
+            "description": "ficolin 3",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.11",
+            "otheraliases": "FCNH, HAKA1",
+            "otherdesignations": "ficolin-3|H-ficolin|collagen/fibrinogen domain-containing lectin 3 p35|collagen/fibrinogen domain-containing protein 3|ficolin (collagen/fibrinogen domain containing) 3 (Hakata antigen)",
+            "nomenclaturesymbol": "FCN3",
+            "nomenclaturename": "ficolin 3",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "604973"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374823,
+                    "chrstop": 27369109,
+                    "exoncount": 8
+                }
+            ],
+            "geneweight": 6031,
+            "summary": "Ficolins are a group of proteins which consist of a collagen-like domain and a fibrinogen-like domain. In human serum, there are two types of ficolins, both of which have lectin activity. The protein encoded by this gene is a thermolabile beta-2-macroglycoprotein found in all human serum and is a member of the ficolin/opsonin p35 lectin family. The protein, which was initially identified based on its reactivity with sera from patients with systemic lupus erythematosus, has been shown to have a calcium-independent lectin activity. The protein can activate the complement pathway in association with MASPs and sMAP, thereby aiding in host defense through the activation of the lectin pathway. Alternative splicing occurs at this locus and two variants, each encoding a distinct isoform, have been identified. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 27369109,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374823,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27216134,
+                    "chrstop": 27210347
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374823,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27216134,
+                    "chrstop": 27210347
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374823,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27216134,
+                    "chrstop": 27210347
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374823,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 27216134,
+                    "chrstop": 27210347
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 27374851,
+                    "chrstop": 27369109
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 27701314,
+                    "chrstop": 27695600
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 27701314,
+                    "chrstop": 27695600
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 27701342,
+                    "chrstop": 27695600
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 27701314,
+                    "chrstop": 27695600
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 25957458,
+                    "chrstop": 25951740
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 27816060,
+                    "chrstop": 27810335
+                }
+            ]
+        }
+    }
+}

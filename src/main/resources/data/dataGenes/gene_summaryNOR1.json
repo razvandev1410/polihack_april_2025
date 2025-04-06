@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "8013"
+        ],
+        "8013": {
+            "uid": "8013",
+            "name": "NR4A3",
+            "description": "nuclear receptor subfamily 4 group A member 3",
+            "status": "",
+            "currentid": "",
+            "chromosome": "9",
+            "geneticsource": "genomic",
+            "maplocation": "9q31.1",
+            "otheraliases": "CHN, CSMF, MINOR, NOR1",
+            "otherdesignations": "nuclear receptor subfamily 4 group A member 3|chondrosarcoma, extraskeletal myxoid, fused to EWS|mitogen-induced nuclear orphan receptor|neuron-derived orphan receptor 1|nuclear hormone receptor NOR-1|translocated in extraskeletal chondrosarcoma",
+            "nomenclaturesymbol": "NR4A3",
+            "nomenclaturename": "nuclear receptor subfamily 4 group A member 3",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "600542"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "9",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866890,
+                    "exoncount": 10
+                }
+            ],
+            "geneweight": 9167,
+            "summary": "This gene encodes a member of the steroid-thyroid hormone-retinoid receptor superfamily. The encoded protein may act as a transcriptional activator. The protein can efficiently bind the NGFI-B Response Element (NBRE). Three different versions of extraskeletal myxoid chondrosarcomas (EMCs) are the result of reciprocal translocations between this gene and other genes. The translocation breakpoints are associated with Nuclear Receptor Subfamily 4, Group A, Member 3 (on chromosome 9) and either Ewing Sarcome Breakpoint Region 1 (on chromosome 22), RNA Polymerase II, TATA Box-Binding Protein-Associated Factor, 68-KD (on chromosome 17), or Transcription factor 12 (on chromosome 15). Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Mar 2010]",
+            "chrsort": "09",
+            "chrstart": 99821884,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866890
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060933.1",
+                    "chrstart": 111993519,
+                    "chrstop": 112038526
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866890
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060933.1",
+                    "chrstart": 111993519,
+                    "chrstop": 112038526
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866890
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060933.1",
+                    "chrstart": 111993519,
+                    "chrstop": 112038526
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866890
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060933.1",
+                    "chrstart": 111993519,
+                    "chrstop": 112038526
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821884,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000009.12",
+                    "chrstart": 99821854,
+                    "chrstop": 99866892
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000009.11",
+                    "chrstart": 102584166,
+                    "chrstop": 102629172
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000009.11",
+                    "chrstart": 102584166,
+                    "chrstop": 102629172
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000009.11",
+                    "chrstart": 102584166,
+                    "chrstop": 102629172
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000009.11",
+                    "chrstart": 102584136,
+                    "chrstop": 102629172
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000141.1",
+                    "chrstart": 72183338,
+                    "chrstop": 72228486
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018920.2",
+                    "chrstart": 102730615,
+                    "chrstop": 102775644
+                }
+            ]
+        }
+    }
+}

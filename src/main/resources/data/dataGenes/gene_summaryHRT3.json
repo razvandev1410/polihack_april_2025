@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "26508"
+        ],
+        "26508": {
+            "uid": "26508",
+            "name": "HEYL",
+            "description": "hes related family bHLH transcription factor with YRPW motif like",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p34.2",
+            "otheraliases": "HESR3, HEY3, HRT3, bHLHb33",
+            "otherdesignations": "hairy/enhancer-of-split related with YRPW motif-like protein|HEY-like protein|HRT-3|class B basic helix-loop-helix protein 33|hHRT3|hHeyL|hairy-related transcription factor 3|hairy/enhancer-of-split related with YRPW motif 3",
+            "nomenclaturesymbol": "HEYL",
+            "nomenclaturename": "hes related family bHLH transcription factor with YRPW motif like",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "609034"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434,
+                    "exoncount": 6
+                }
+            ],
+            "geneweight": 1524,
+            "summary": "This gene encodes a member of the hairy and enhancer of split-related (HESR) family of basic helix-loop-helix (bHLH)-type transcription factors. The sequence of the encoded protein contains a conserved bHLH and orange domain, but its YRPW motif has diverged from other HESR family members. It is thought to be an effector of Notch signaling and a regulator of cell fate decisions. Alternatively spliced transcript variants have been found, but their biological validity has not been determined. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 39623434,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 39508062,
+                    "chrstop": 39487907
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 39508062,
+                    "chrstop": 39487907
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 39508062,
+                    "chrstop": 39487907
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 39508062,
+                    "chrstop": 39491853
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 39639642,
+                    "chrstop": 39623434
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 40105314,
+                    "chrstop": 40089106
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 40105314,
+                    "chrstop": 40089106
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 40105314,
+                    "chrstop": 40089106
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 40105347,
+                    "chrstop": 40089102
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 38223732,
+                    "chrstop": 38207487
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 40220724,
+                    "chrstop": 40204475
+                }
+            ]
+        }
+    }
+}

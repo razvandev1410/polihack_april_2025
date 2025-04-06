@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "1676"
+        ],
+        "1676": {
+            "uid": "1676",
+            "name": "DFFA",
+            "description": "DNA fragmentation factor subunit alpha",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.22",
+            "otheraliases": "DFF-45, DFF1, ICAD",
+            "otherdesignations": "DNA fragmentation factor subunit alpha|DFF45|DNA fragmentation factor 45 kDa subunit|DNA fragmentation factor, 45kDa, alpha polypeptide|inhibitor of CAD",
+            "nomenclaturesymbol": "DFFA",
+            "nomenclaturename": "DNA fragmentation factor subunit alpha",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "601882"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521,
+                    "exoncount": 6
+                }
+            ],
+            "geneweight": 3810,
+            "summary": "Apoptosis is a cell death process that removes toxic and/or useless cells during mammalian development. The apoptotic process is accompanied by shrinkage and fragmentation of the cells and nuclei and degradation of the chromosomal DNA into nucleosomal units. DNA fragmentation factor (DFF) is a heterodimeric protein of 40-kD (DFFB) and 45-kD (DFFA) subunits. DFFA is the substrate for caspase-3 and triggers DNA fragmentation during apoptosis. DFF becomes activated when DFFA is cleaved by caspase-3. The cleaved fragments of DFFA dissociate from DFFB, the active component of DFF. DFFB has been found to trigger both DNA fragmentation and chromatin condensation during apoptosis. Two alternatively spliced transcript variants encoding distinct isoforms have been found for this gene. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 10456521,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10016136,
+                    "chrstop": 10000138
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10016136,
+                    "chrstop": 10000138
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10016136,
+                    "chrstop": 10000138
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 10016136,
+                    "chrstop": 10000138
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 10472528,
+                    "chrstop": 10456521
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10532585,
+                    "chrstop": 10516578
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10532585,
+                    "chrstop": 10516578
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10532585,
+                    "chrstop": 10516578
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 10532612,
+                    "chrstop": 10520587
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 9686173,
+                    "chrstop": 9674181
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 10520369,
+                    "chrstop": 10508329
+                }
+            ]
+        }
+    }
+}

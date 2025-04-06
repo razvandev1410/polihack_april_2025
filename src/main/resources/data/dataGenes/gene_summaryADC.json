@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "113451"
+        ],
+        "113451": {
+            "uid": "113451",
+            "name": "AZIN2",
+            "description": "antizyme inhibitor 2",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p35.1",
+            "otheraliases": "ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp",
+            "otherdesignations": "antizyme inhibitor 2|ODC antizyme inhibitor-2|ODC-like protein|ODC-paralogue|arginine decarboxylase|ornithine decarboxylase like|ornithine decarboxylase-like protein|ornithine decarboxylase-paralog",
+            "nomenclaturesymbol": "AZIN2",
+            "nomenclaturename": "antizyme inhibitor 2",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "608353"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081152,
+                    "chrstop": 33166794,
+                    "exoncount": 16
+                }
+            ],
+            "geneweight": 1735,
+            "summary": "The protein encoded by this gene belongs to the antizyme inhibitor family, which plays a role in cell growth and proliferation by maintaining polyamine homeostasis within the cell. Antizyme inhibitors are homologs of ornithine decarboxylase (ODC, the key enzyme in polyamine biosynthesis) that have lost the ability to decarboxylase ornithine; however, retain the ability to bind to antizymes. Antizymes negatively regulate intracellular polyamine levels by binding to ODC and targeting it for degradation, as well as by inhibiting polyamine uptake. Antizyme inhibitors function as positive regulators of polyamine levels by sequestering antizymes and neutralizing their effect. This gene encodes antizyme inhibitor 2, the second member of this gene family. Like antizyme inhibitor 1, antizyme inhibitor 2 interacts with all 3 antizymes and stimulates ODC activity and polyamine uptake. However, unlike antizyme inhibitor 1, which is ubiquitously expressed and localized in the nucleus and cytoplasm, antizyme inhibitor 2 is predominantly expressed in the brain and testis and localized in the endoplasmic reticulum-golgi intermediate compartment. Recent studies indicate that antizyme inhibitor 2 is also expressed in specific cell types in ovaries, adrenal glands and pancreas, and in mast cells. The exact function of this gene is not known, however, available data suggest its role in cell growth, spermiogenesis, vesicular trafficking and secretion. Accumulation of antizyme inhibitor 2 has also been observed in brains of patients with Alzheimer's disease. There has been confusion in literature and databases over the nomenclature of this gene, stemming from an earlier report that a human cDNA clone (identical to ODCp/AZIN2) had arginine decarboxylase (ADC) activity (PMID:14738999). Subsequent studies in human and mouse showed that antizyme inhibitor 2 was devoid of arginine decarboxylase activity (PMID:19956990). Alternatively spliced transcript variants have been described for this gene. [provided by RefSeq, Sep 2014]",
+            "chrsort": "01",
+            "chrstart": 33081152,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081152,
+                    "chrstop": 33166794
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 32941045,
+                    "chrstop": 33025344
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081152,
+                    "chrstop": 33166794
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 32941045,
+                    "chrstop": 33025344
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081152,
+                    "chrstop": 33166794
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 32941045,
+                    "chrstop": 33025344
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081152,
+                    "chrstop": 33166794
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 32941045,
+                    "chrstop": 32983368
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 33081151,
+                    "chrstop": 33162287
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 33546753,
+                    "chrstop": 33589092
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 33546753,
+                    "chrstop": 33589092
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 33546753,
+                    "chrstop": 33589092
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 33546710,
+                    "chrstop": 33586131
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 31662671,
+                    "chrstop": 31701952
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 33662238,
+                    "chrstop": 33701503
+                }
+            ]
+        }
+    }
+}

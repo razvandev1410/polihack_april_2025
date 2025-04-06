@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "4352"
+        ],
+        "4352": {
+            "uid": "4352",
+            "name": "MPL",
+            "description": "MPL proto-oncogene, thrombopoietin receptor",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p34.2",
+            "otheraliases": "C-MPL, CD110, MPLV, THCYT2, THPOR, TPOR",
+            "otherdesignations": "thrombopoietin receptor|TPO-R|myeloproliferative leukemia protein|myeloproliferative leukemia virus oncogene|proto-oncogene c-Mpl",
+            "nomenclaturesymbol": "MPL",
+            "nomenclaturename": "MPL proto-oncogene, thrombopoietin receptor",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "159530"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43337817,
+                    "chrstop": 43354465,
+                    "exoncount": 12
+                }
+            ],
+            "geneweight": 18139,
+            "summary": "In 1990 an oncogene, v-mpl, was identified from the murine myeloproliferative leukemia virus that was capable of immortalizing bone marrow hematopoietic cells from different lineages. In 1992 the human homologue, named, c-mpl, was cloned. Sequence data revealed that c-mpl encoded a protein that was homologous with members of the hematopoietic receptor superfamily. Presence of anti-sense oligodeoxynucleotides of c-mpl inhibited megakaryocyte colony formation. The ligand for c-mpl, thrombopoietin, was cloned in 1994. Thrombopoietin was shown to be the major regulator of megakaryocytopoiesis and platelet formation. The protein encoded by the c-mpl gene, CD110, is a 635 amino acid transmembrane domain, with two extracellular cytokine receptor domains and two intracellular cytokine receptor box motifs . TPO-R deficient mice were severely thrombocytopenic, emphasizing the important role of CD110 and thrombopoietin in megakaryocyte and platelet formation. Upon binding of thrombopoietin CD110 is dimerized and the JAK family of non-receptor tyrosine kinases, as well as the STAT family, the MAPK family, the adaptor protein Shc and the receptors themselves become tyrosine phosphorylated. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 43337817,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43337817,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43208364,
+                    "chrstop": 43225012
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43337817,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43208364,
+                    "chrstop": 43225012
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43337817,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43208364,
+                    "chrstop": 43225012
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43337817,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43208364,
+                    "chrstop": 43225012
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43336874,
+                    "chrstop": 43354465
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43803488,
+                    "chrstop": 43820136
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43803488,
+                    "chrstop": 43820136
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43803488,
+                    "chrstop": 43820136
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 43803474,
+                    "chrstop": 43820134
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 41923379,
+                    "chrstop": 41939974
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 43919945,
+                    "chrstop": 43936584
+                }
+            ]
+        }
+    }
+}

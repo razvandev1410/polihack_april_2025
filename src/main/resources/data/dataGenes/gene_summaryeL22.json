@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "6146"
+        ],
+        "6146": {
+            "uid": "6146",
+            "name": "RPL22",
+            "description": "ribosomal protein L22",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.31",
+            "otheraliases": "EAP, HBP15, HBP15/L22, L22, eL22",
+            "otherdesignations": "large ribosomal subunit protein eL22|60S ribosomal protein L22|EBER-associated protein|Epstein-Barr virus small RNA-associated protein|Epstein-Barr-encoded RNA-associated protein|heparin-binding protein 15|heparin-binding protein HBp15",
+            "nomenclaturesymbol": "RPL22",
+            "nomenclaturename": "ribosomal protein L22",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "180474"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019,
+                    "exoncount": 4
+                }
+            ],
+            "geneweight": 5510,
+            "summary": "Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a cytoplasmic ribosomal protein that is a component of the 60S subunit. The protein belongs to the L22E family of ribosomal proteins. Its initiating methionine residue is post-translationally removed. The protein can bind specifically to Epstein-Barr virus-encoded RNAs (EBERs) 1 and 2. The mouse protein has been shown to be capable of binding to heparin. Transcript variants utilizing alternative polyA signals exist. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. It was previously thought that this gene mapped to 3q26 and that it was fused to the acute myeloid leukemia 1 (AML1) gene located at 21q22 in some therapy-related myelodysplastic syndrome patients with 3;21 translocations; however, these fusions actually involve a ribosomal protein L22 pseudogene located at 3q26, and this gene actually maps to 1p36.3-p36.2. [provided by RefSeq, Jul 2008]",
+            "chrsort": "01",
+            "chrstart": 6185019,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5725240,
+                    "chrstop": 5710665
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5725240,
+                    "chrstop": 5710665
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5725240,
+                    "chrstop": 5710665
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 5725240,
+                    "chrstop": 5710665
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 6199594,
+                    "chrstop": 6185019
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6259654,
+                    "chrstop": 6245079
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6259654,
+                    "chrstop": 6245079
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6259654,
+                    "chrstop": 6245079
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 6259678,
+                    "chrstop": 6245079
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 5407948,
+                    "chrstop": 5393349
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 6248322,
+                    "chrstop": 6233455
+                }
+            ]
+        }
+    }
+}

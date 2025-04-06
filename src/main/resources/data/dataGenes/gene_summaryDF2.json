@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "51441"
+        ],
+        "51441": {
+            "uid": "51441",
+            "name": "YTHDF2",
+            "description": "YTH N6-methyladenosine RNA binding protein F2",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p35.3",
+            "otheraliases": "CAHL, DF2, HGRG8, NY-REN-2",
+            "otherdesignations": "YTH domain-containing family protein 2|9430020E02Rik|CLL-associated antigen KW-14|YTH N(6)-methyladenosine RNA binding protein 2|YTH N6-methyladenosine RNA binding protein 2|YTH domain family, member 2|high-glucose-regulated protein 8|renal carcinoma antigen NY-REN-2",
+            "nomenclaturesymbol": "YTHDF2",
+            "nomenclaturename": "YTH N6-methyladenosine RNA binding protein F2",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "610640"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774,
+                    "exoncount": 6
+                }
+            ],
+            "geneweight": 9571,
+            "summary": "This gene encodes a member of the YTH (YT521-B homology) superfamily containing YTH domain. The YTH domain is typical for the eukaryotes and is particularly abundant in plants. The YTH domain is usually located in the middle of the protein sequence and may function in binding to RNA. In addition to a YTH domain, this protein has a proline rich region which may be involved in signal transduction. An Alu-rich domain has been identified in one of the introns of this gene, which is thought to be associated with human longevity. In addition, reciprocal translocations between this gene and the Runx1 (AML1) gene on chromosome 21 has been observed in patients with acute myeloid leukemia. This gene was initially mapped to chromosome 14, which was later turned out to be a pseudogene. Alternatively spliced transcript variants encoding different isoforms have been identified in this gene. [provided by RefSeq, Oct 2012]",
+            "chrsort": "01",
+            "chrstart": 28736623,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28578614,
+                    "chrstop": 28611770
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28578614,
+                    "chrstop": 28611770
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28578614,
+                    "chrstop": 28611770
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 28578614,
+                    "chrstop": 28611770
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736623,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 28736620,
+                    "chrstop": 28769774
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 29063135,
+                    "chrstop": 29096286
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 29063135,
+                    "chrstop": 29096286
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 29063135,
+                    "chrstop": 29096286
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 29063132,
+                    "chrstop": 29096286
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 27315796,
+                    "chrstop": 27348922
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 29178453,
+                    "chrstop": 29211611
+                }
+            ]
+        }
+    }
+}

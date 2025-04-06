@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "57120"
+        ],
+        "57120": {
+            "uid": "57120",
+            "name": "GOPC",
+            "description": "golgi associated PDZ and coiled-coil motif containing",
+            "status": "",
+            "currentid": "",
+            "chromosome": "6",
+            "geneticsource": "genomic",
+            "maplocation": "6q22.1",
+            "otheraliases": "CAL, FIG, GOPC1, PIST, dJ94G16.2",
+            "otherdesignations": "Golgi-associated PDZ and coiled-coil motif-containing protein|CFTR-associated ligand|PDZ protein interacting specifically with TC10|PDZ/coiled-coil domain binding partner for the rho-family GTPase TC10|dJ94G16.2 PIST|fused in glioblastoma|golgi-associated PDZ and coiled-coil motif containing protein",
+            "nomenclaturesymbol": "GOPC",
+            "nomenclaturename": "golgi associated PDZ and coiled-coil motif containing",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "606845"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "6",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602510,
+                    "chrstop": 117560268,
+                    "exoncount": 9
+                }
+            ],
+            "geneweight": 3974,
+            "summary": "This gene encodes a Golgi protein with a PDZ domain. The PDZ domain is globular and proteins which contain them bind other proteins through short motifs near the C-termini. Mice which are deficient in the orthologous protein have globozoospermia and are infertile. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Dec 2011]",
+            "chrsort": "06",
+            "chrstart": 117560268,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602510,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060930.1",
+                    "chrstart": 118786751,
+                    "chrstop": 118744504
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602510,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060930.1",
+                    "chrstart": 118786751,
+                    "chrstop": 118744504
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602510,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060930.1",
+                    "chrstart": 118786751,
+                    "chrstop": 118744504
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602510,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060930.1",
+                    "chrstart": 118786751,
+                    "chrstop": 118744504
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000006.12",
+                    "chrstart": 117602519,
+                    "chrstop": 117560268
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000006.11",
+                    "chrstart": 117923673,
+                    "chrstop": 117881431
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000006.11",
+                    "chrstart": 117923673,
+                    "chrstop": 117881431
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000006.11",
+                    "chrstart": 117923673,
+                    "chrstop": 117881431
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000006.11",
+                    "chrstart": 117923704,
+                    "chrstop": 117881431
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000138.1",
+                    "chrstart": 115504348,
+                    "chrstop": 115462062
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018917.2",
+                    "chrstart": 118187646,
+                    "chrstop": 118145374
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "4179"
+        ],
+        "4179": {
+            "uid": "4179",
+            "name": "CD46",
+            "description": "CD46 molecule",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1q32.2",
+            "otheraliases": "AHUS2, MCP, MIC10, TLX, TRA2.10",
+            "otherdesignations": "membrane cofactor protein|CD46 antigen, complement regulatory protein|CD46 molecule, complement regulatory protein|antigen identified by monoclonal antibody TRA-2-10|complement membrane cofactor protein|measles virus receptor|membrane cofactor protein (CD46, trophoblast-lymphocyte cross-reactive antigen)|trophoblast leucocyte common antigen|trophoblast leukocyte common antigen|trophoblast-lymphocyte cross-reactive antigen",
+            "nomenclaturesymbol": "CD46",
+            "nomenclaturename": "CD46 molecule",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "120920"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515,
+                    "exoncount": 14
+                }
+            ],
+            "geneweight": 17644,
+            "summary": "The protein encoded by this gene is a type I membrane protein and is a regulatory part of the complement system. The encoded protein has cofactor activity for inactivation of complement components C3b and C4b by serum factor I, which protects the host cell from damage by complement. In addition, the encoded protein can act as a receptor for the Edmonston strain of measles virus, human herpesvirus-6, and type IV pili of pathogenic Neisseria. Finally, the protein encoded by this gene may be involved in the fusion of the spermatozoa with the oocyte during fertilization. Mutations at this locus have been associated with susceptibility to hemolytic uremic syndrome. Alternatively spliced transcript variants encoding different isoforms have been described. [provided by RefSeq, Jun 2010]",
+            "chrsort": "01",
+            "chrstart": 207752037,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 206998783,
+                    "chrstop": 207042278
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 206998783,
+                    "chrstop": 207042278
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 206998783,
+                    "chrstop": 207042278
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 206998783,
+                    "chrstop": 207042278
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 207752037,
+                    "chrstop": 207795515
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 207925382,
+                    "chrstop": 207968860
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 207925382,
+                    "chrstop": 207968860
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 207925382,
+                    "chrstop": 207968860
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 207925382,
+                    "chrstop": 207968860
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 178599654,
+                    "chrstop": 178643143
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 209197782,
+                    "chrstop": 209241258
+                }
+            ]
+        }
+    }
+}

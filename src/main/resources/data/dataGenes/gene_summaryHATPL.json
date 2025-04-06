@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "533"
+        ],
+        "533": {
+            "uid": "533",
+            "name": "ATP6V0B",
+            "description": "ATPase H+ transporting V0 subunit b",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p34.1",
+            "otheraliases": "ATP6F, HATPL, VMA16",
+            "otherdesignations": "V-type proton ATPase 21 kDa proteolipid subunit c''|ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b|ATPase, H+ transporting, lysosomal, 21-KD, V0 subunit C-prime, prime|ATPase, H+ transporting, lysosomal, subunit F|H(+)-transporting two-sector ATPase, subunit F|V-ATPase 21 kDa proteolipid subunit|V-ATPase 21 kDa proteolipid subunit c''|V-ATPase subunit b|V-ATPase subunit c''|V-type proton ATPase 21 kDa proteolipid subunit|vacuolar ATP synthase 21 kDa proteolipid subunit|vacuolar proton pump 21 kDa proteolipid subunit|vacuolar proton pump 21 kDa proteolipid subunit c''",
+            "nomenclaturesymbol": "ATP6V0B",
+            "nomenclaturename": "ATPase H+ transporting V0 subunit b",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "603717"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294,
+                    "exoncount": 9
+                }
+            ],
+            "geneweight": 1204,
+            "summary": "This gene encodes a portion of the V0 domain of vacuolar ATPase (V-ATPase), a multisubunit enzyme that mediates acidification of eukaryotic intracellular organelles. Activity of this enzyme is necessary for such varied processes as protein sorting, zymogen activation, receptor-mediated endocytosis, and synaptic vesicle proton gradient generation. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jun 2014]",
+            "chrsort": "01",
+            "chrstart": 43974959,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43846039,
+                    "chrstop": 43849374
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43846039,
+                    "chrstop": 43849374
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43846039,
+                    "chrstop": 43849374
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 43846039,
+                    "chrstop": 43849374
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 43974959,
+                    "chrstop": 43978294
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 44440631,
+                    "chrstop": 44443966
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 44440631,
+                    "chrstop": 44443966
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 44440631,
+                    "chrstop": 44443966
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 44440117,
+                    "chrstop": 44443971
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 42556154,
+                    "chrstop": 42559524
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 44556854,
+                    "chrstop": 44560224
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "5478"
+        ],
+        "5478": {
+            "uid": "5478",
+            "name": "PPIA",
+            "description": "peptidylprolyl isomerase A",
+            "status": "",
+            "currentid": "",
+            "chromosome": "7",
+            "geneticsource": "genomic",
+            "maplocation": "7p13",
+            "otheraliases": "CYPA, CYPH, HEL-S-69p",
+            "otherdesignations": "peptidyl-prolyl cis-trans isomerase A|PPIase A|T cell cyclophilin|cyclosporin A-binding protein|epididymis secretory sperm binding protein Li 69p|peptidylprolyl isomerase A (cyclophilin A)|rotamase A",
+            "nomenclaturesymbol": "PPIA",
+            "nomenclaturename": "peptidylprolyl isomerase A",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "123840"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "7",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44796680,
+                    "chrstop": 44803116,
+                    "exoncount": 7
+                }
+            ],
+            "geneweight": 30822,
+            "summary": "This gene encodes a member of the peptidyl-prolyl cis-trans isomerase (PPIase) family. PPIases catalyze the cis-trans isomerization of proline imidic peptide bonds in oligopeptides and accelerate the folding of proteins. The encoded protein is a cyclosporin binding-protein and may play a role in cyclosporin A-mediated immunosuppression. The protein can also interact with several HIV proteins, including p55 gag, Vpr, and capsid protein, and has been shown to be necessary for the formation of infectious HIV virions. Multiple pseudogenes that map to different chromosomes have been reported. [provided by RefSeq, Jul 2008]",
+            "chrsort": "07",
+            "chrstart": 44796680,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44796680,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060931.1",
+                    "chrstart": 44957231,
+                    "chrstop": 44963669
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44796680,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060931.1",
+                    "chrstart": 44957231,
+                    "chrstop": 44963669
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44796680,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060931.1",
+                    "chrstart": 44957231,
+                    "chrstop": 44963669
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44796680,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060931.1",
+                    "chrstart": 44957231,
+                    "chrstop": 44963669
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000007.14",
+                    "chrstart": 44795959,
+                    "chrstop": 44803116
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000007.13",
+                    "chrstart": 44836279,
+                    "chrstop": 44842715
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000007.13",
+                    "chrstart": 44836279,
+                    "chrstop": 44842715
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000007.13",
+                    "chrstart": 44836279,
+                    "chrstop": 44842715
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000007.13",
+                    "chrstart": 44836240,
+                    "chrstop": 44842715
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002135.2",
+                    "chraccver": "AC_000068.1",
+                    "chrstart": 44875747,
+                    "chrstop": 44882223
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000139.1",
+                    "chrstart": 44721291,
+                    "chrstop": 44727767
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018918.2",
+                    "chrstart": 44840585,
+                    "chrstop": 44847068
+                }
+            ]
+        }
+    }
+}

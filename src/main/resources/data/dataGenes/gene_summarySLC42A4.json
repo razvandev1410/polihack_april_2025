@@ -1,0 +1,189 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "6006"
+        ],
+        "6006": {
+            "uid": "6006",
+            "name": "RHCE",
+            "description": "Rh blood group CcEe antigens",
+            "status": "",
+            "currentid": "",
+            "chromosome": "1",
+            "geneticsource": "genomic",
+            "maplocation": "1p36.11",
+            "otheraliases": "CD240CE, RH, RH30A, RHC, RHCe(152N), RHE, RHIXB, RHNA, RHPI, Rh4, RhIVb(J), RhVI, RhVIII, SLC42A4",
+            "otherdesignations": "blood group Rh(CE) polypeptide|(C)ces type 1 Rhesus blood group D antigen|RHCE blood group variant Crawford antigen Rh43|RHCE*CeCw blood group antigen|Rh blood group C antigen|Rh blood group CE antigen|Rh blood group CcEe antigen|Rh blood group CcEe antigen cE_340T|Rh blood group CcEe antigens RHCE_916G|Rh blood group D antigen|Rh blood group antigen Evans|Rh blood group protein|Rh polypeptide I|RhCE blood group antigen|RhCE blood group antigens|RhD antigen|Rhesus blood group CE protein|Rhesus blood group CcEe antigen|Rhesus blood group E antigen|Rhesus blood group Rhce antigen|Rhesus blood group antigen CE|Rhesus system C and E polypeptides|blood group Rh(CE) polypeptide 144G RHCE|blood group Rh(CE) polypeptide 225A RHCE|blood group Rh(CE) polypeptide 341A RHCE|blood group Rh(CE) polypeptide 347G RHCE|blood group Rh(CE) polypeptide 537G RHCE|blood group Rh(CE) polypeptide 658C RHCE|blood group Rh(CE) polypeptide 718G RHCE|blood group Rh(CE) polypeptide 999A RHCE|blood group RhCE polypeptide|blood group RhCcEe antigen|blood group protein RHCE|rh polypeptide 1|rhesus C/E antigens|rhesus blood group antigen, RhC antigen|rhesus blood group little e antigen|silenced Rh blood group CcEe antigen",
+            "nomenclaturesymbol": "RHCE",
+            "nomenclaturename": "Rh blood group CcEe antigens",
+            "nomenclaturestatus": "Official",
+            "mim": [
+                "111700"
+            ],
+            "genomicinfo": [
+                {
+                    "chrloc": "1",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430202,
+                    "chrstop": 25362248,
+                    "exoncount": 14
+                }
+            ],
+            "geneweight": 8040,
+            "summary": "The Rh blood group system is the second most clinically significant of the blood groups, second only to ABO. It is also the most polymorphic of the blood groups, with variations due to deletions, gene conversions, and missense mutations. The Rh blood group includes this gene which encodes both the RhC and RhE antigens on a single polypeptide and a second gene which encodes the RhD protein. The classification of Rh-positive and Rh-negative individuals is determined by the presence or absence of the highly immunogenic RhD protein on the surface of erythrocytes. A mutation in this gene results in amorph-type Rh-null disease. Alternative splicing of this gene results in multiple transcript variants encoding several different isoforms. [provided by RefSeq, Aug 2016]",
+            "chrsort": "01",
+            "chrstart": 25362248,
+            "organism": {
+                "scientificname": "Homo sapiens",
+                "commonname": "human",
+                "taxid": 9606
+            },
+            "locationhist": [
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430202,
+                    "chrstop": 25362248
+                },
+                {
+                    "annotationrelease": "RS_2024_08",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 25266529,
+                    "chrstop": 25198546
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430202,
+                    "chrstop": 25362248
+                },
+                {
+                    "annotationrelease": "RS_2023_10",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 25266529,
+                    "chrstop": 25198546
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430202,
+                    "chrstop": 25362248
+                },
+                {
+                    "annotationrelease": "RS_2023_03",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 25266529,
+                    "chrstop": 25198546
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_000001405.40",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430202,
+                    "chrstop": 25362248
+                },
+                {
+                    "annotationrelease": "110",
+                    "assemblyaccver": "GCF_009914755.1",
+                    "chraccver": "NC_060925.1",
+                    "chrstart": 25257277,
+                    "chrstop": 25198546
+                },
+                {
+                    "annotationrelease": "109.20211119",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "109.20210514",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "109.20210226",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "109.20201120",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "109.20200815",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "109.20200522",
+                    "assemblyaccver": "GCF_000001405.39",
+                    "chraccver": "NC_000001.11",
+                    "chrstart": 25430192,
+                    "chrstop": 25360658
+                },
+                {
+                    "annotationrelease": "RS_2024_09",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 25747425,
+                    "chrstop": 25688739
+                },
+                {
+                    "annotationrelease": "105.20220307",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 25747425,
+                    "chrstop": 25688739
+                },
+                {
+                    "annotationrelease": "105.20201022",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 25747425,
+                    "chrstop": 25688739
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000001405.25",
+                    "chraccver": "NC_000001.10",
+                    "chrstart": 25747362,
+                    "chrstop": 25687852
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000002125.1",
+                    "chraccver": "AC_000133.1",
+                    "chrstart": 24004324,
+                    "chrstop": 23942703
+                },
+                {
+                    "annotationrelease": "105",
+                    "assemblyaccver": "GCF_000306695.2",
+                    "chraccver": "NC_018912.2",
+                    "chrstart": 25860778,
+                    "chrstop": 25802837
+                }
+            ]
+        }
+    }
+}
