@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="org.example.controller.FullScreenController"
+            stylesheets="@/ui_thing/views/style.css">
+
+    <top>
+        <!-- HBox with spacing and optional alignment for vertical centering -->
+        <HBox fx:id="topBar" spacing="15" styleClass="top-bar" alignment="CENTER_LEFT">
+
+            <!-- App Icon (Left) -->
+            <ImageView fx:id="logoImageView" fitHeight="60" fitWidth="50" preserveRatio="true">
+                <image>
+                    <Image url="@../logoBrand.png"/>
+                </image>
+            </ImageView>
+
+            <!-- Region expands to push the items that follow to the right -->
+            <Region HBox.hgrow="ALWAYS" />
+
+            <!-- Search Field -->
+            <TextField fx:id="searchField" promptText="Search gene..." styleClass="search-field" />
+
+            <!-- User Icon -->
+            <ImageView fx:id="userIcon" fitHeight="50" fitWidth="50" preserveRatio="true">
+                <image>
+                    <Image url="@../loginLogo.png" />
+                </image>
+            </ImageView>
+        </HBox>
+    </top>
+
+    <center>
+        <!-- Your main content -->
+    </center>
+</BorderPane>

@@ -17,7 +17,10 @@ def get_gene_details(gene):
     # Save summary_response to a JSON file``
     with open(f"gene_summary{gene}.json", "w") as json_file:
         json.dump(summary_response, json_file, indent=4)
-    print("Summary response saved to gene_summary.json")
+    print(f"Summary response saved to gene_summary{gene}.json")
+
+if __name__ == "__main__":
+    get_gene_details("BSC")
 
 
 

@@ -25,6 +25,8 @@ dependencies {
     // Replace Glassfish JSON with the org.json library
     implementation 'org.json:json:20231013'
 
+    implementation 'com.google.code.gson:gson:2.10.1'
+
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
@@ -45,7 +47,7 @@ sourceSets {
     }
 }
 
-jar {
+/*jar {
     manifest {
         attributes('Main-Class': 'org.example.Main')
     }
@@ -53,7 +55,7 @@ jar {
         configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
     }
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-}
+}*/
 
 test {
     useJUnitPlatform()

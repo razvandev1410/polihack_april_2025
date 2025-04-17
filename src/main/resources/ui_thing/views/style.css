@@ -1,0 +1,69 @@
+/* =====================================================================
+   style.css
+   Uses an image for the entire scene background.
+   ===================================================================== */
+
+/* 1) Apply the background image to the entire Scene (the root node). */
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 14px;
+
+    /* Reference your image by classpath. The leading slash (/)
+       indicates an absolute path within the resources folder. */
+    -fx-background-image: url("../background2.png");
+
+    /* Ensures the image scales to fill the window. */
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+
+/* 2) Make your top-bar transparent or semi-transparent
+   so the background image is visible behind it. */
+.top-bar {
+    -fx-background-color: rgba(255, 255, 255, 0.1); /* 20% opacity white overlay */
+    -fx-padding: 10 15;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 5, 0.0, 0, 2);
+}
+
+/* 3) Your search field can stay as is, or tweak if needed for contrast. */
+.search-field {
+    -fx-pref-width: 250px;
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 4;
+
+    /* The key lines for embedding the icon */
+    -fx-background-image: url("../searchLogo.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: right center;  /* Or 'center-right 10px' if you need some padding. */
+    -fx-background-size: 20px;              /* Adjust icon size as needed */
+
+    /* Add left padding so text doesn't collide with icon */
+    -fx-padding: 5 30 5 10;
+
+    /* Normal search field styling */
+    -fx-border-color: transparent;
+    -fx-focus-color: #7f8c8d;
+    -fx-faint-focus-color: transparent;
+}
+
+
+/* 4) The user label’s text color for readability. */
+.login-status-label {
+    -fx-text-fill: #333333;  /* White text */
+    -fx-font-weight: bold;
+    -fx-padding: 0 10;
+}
+
+.login-status-label:hover {
+    -fx-underline: true;
+}
+
+.text {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 2, 0, 0, 1);
+}
+/*
+.user-icon {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 3, 0, 0, 1);
+    !* any additional styling you want *!
+}*/
