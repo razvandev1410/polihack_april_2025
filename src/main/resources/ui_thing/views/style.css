@@ -1,69 +1,248 @@
 /* =====================================================================
-   style.css
-   Uses an image for the entire scene background.
+   style.css – Drug Repurposing Application (Cleaned Version)
    ===================================================================== */
 
-/* 1) Apply the background image to the entire Scene (the root node). */
+/* Root */
 .root {
     -fx-font-family: "Segoe UI", sans-serif;
     -fx-font-size: 14px;
-
-    /* Reference your image by classpath. The leading slash (/)
-       indicates an absolute path within the resources folder. */
-    -fx-background-image: url("../background2.png");
-
-    /* Ensures the image scales to fill the window. */
-    -fx-background-size: cover;
-    -fx-background-repeat: no-repeat;
-    -fx-background-position: center center;
+    -fx-background-color: #f0f4f7;
 }
 
-/* 2) Make your top-bar transparent or semi-transparent
-   so the background image is visible behind it. */
+/* Top Navigation Bar */
 .top-bar {
-    -fx-background-color: rgba(255, 255, 255, 0.1); /* 20% opacity white overlay */
-    -fx-padding: 10 15;
-    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 5, 0.0, 0, 2);
+    -fx-background-color: white;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 2);
 }
 
-/* 3) Your search field can stay as is, or tweak if needed for contrast. */
-.search-field {
-    -fx-pref-width: 250px;
-    -fx-background-color: #ffffff;
-    -fx-background-radius: 4;
-
-    /* The key lines for embedding the icon */
-    -fx-background-image: url("../searchLogo.png");
-    -fx-background-repeat: no-repeat;
-    -fx-background-position: right center;  /* Or 'center-right 10px' if you need some padding. */
-    -fx-background-size: 20px;              /* Adjust icon size as needed */
-
-    /* Add left padding so text doesn't collide with icon */
-    -fx-padding: 5 30 5 10;
-
-    /* Normal search field styling */
-    -fx-border-color: transparent;
-    -fx-focus-color: #7f8c8d;
-    -fx-faint-focus-color: transparent;
-}
-
-
-/* 4) The user label’s text color for readability. */
-.login-status-label {
-    -fx-text-fill: #333333;  /* White text */
+.app-title {
+    -fx-font-size: 18px;
     -fx-font-weight: bold;
-    -fx-padding: 0 10;
+    -fx-text-fill: #333333;
 }
 
-.login-status-label:hover {
-    -fx-underline: true;
+/* Search Components */
+.search-container {
+    -fx-background-color: white;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: #dddddd;
+    -fx-border-width: 1;
+    -fx-padding: 0 5;
 }
 
-.text {
-    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 2, 0, 0, 1);
+.search-field-inset {
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-focus-color: #5a67d8;
+    -fx-faint-focus-color: transparent;
+    -fx-pref-width: 320px;
 }
-/*
+
+.search-button {
+    -fx-background-color: #5a67d8;
+    -fx-background-radius: 50%;
+    -fx-min-width: 24px;
+    -fx-min-height: 24px;
+    -fx-cursor: hand;
+}
+
+/* User Icon */
 .user-icon {
-    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 3, 0, 0, 1);
-    !* any additional styling you want *!
-}*/
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 2, 0, 0, 1);
+}
+
+/* Sidebar */
+.sidebar {
+    -fx-background-color: #f8fafc;
+    -fx-pref-width: 200;
+    -fx-spacing: 10;
+    -fx-padding: 20 10;
+}
+
+.sidebar-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #4a5568;
+    -fx-font-size: 14px;
+    -fx-padding: 10 15;
+    -fx-alignment: center-left;
+    -fx-min-width: 180;
+    -fx-cursor: hand;
+    -fx-background-radius: 4;
+}
+
+.sidebar-button:hover {
+    -fx-background-color: #edf2f7;
+}
+
+.sidebar-button.active {
+    -fx-background-color: #5a67d8;
+    -fx-text-fill: white;
+}
+
+/* Content Area */
+.content-area {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+}
+
+.content-area .viewport {
+    -fx-background-color: transparent;
+}
+
+/* Titles */
+.page-title {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2d3748;
+}
+
+.section-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2d3748;
+}
+
+/* Stat Cards */
+.stat-card {
+    -fx-background-radius: 6;
+    -fx-padding: 15;
+    -fx-pref-height: 120;
+    -fx-spacing: 10;
+    -fx-alignment: center-left;
+    -fx-max-width: Infinity;
+    -fx-min-width: 160;
+}
+
+.blue-card {
+    -fx-background-color: #ebf4ff;
+}
+
+.green-card {
+    -fx-background-color: #e6fffa;
+}
+
+.orange-card {
+    -fx-background-color: #fef5e7;
+}
+
+/* Dashboard Panel */
+.dashboard-content {
+    -fx-background-color: white;
+    -fx-background-radius: 6;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 8, 0, 0, 2);
+    -fx-max-width: Infinity;
+}
+
+/* User Menu Popup */
+.user-menu-popup {
+    -fx-background-color: white;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: #e2e8f0;
+    -fx-border-width: 1;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 10, 0, 0, 4);
+    -fx-padding: 0;
+    -fx-z-index: 1000;
+}
+
+.user-menu-content {
+    -fx-spacing: 0;
+    -fx-padding: 0;
+    -fx-pref-width: 200px;
+}
+
+.user-menu-button {
+    -fx-background-color: #ebf4ff;
+    -fx-text-fill: #4a5568;
+    -fx-padding: 10 15;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+    -fx-alignment: center-left;
+    -fx-border-width: 0;
+}
+
+.user-menu-button:hover {
+    -fx-background-color: #5a67d8;
+    -fx-text-fill: white;
+}
+
+.log-out {
+    -fx-text-fill: #e53e3e;
+}
+
+/* ================================================================
+   Suggestion Dropdown (CustomMenuItem)
+   ================================================================ */
+
+.suggestion-item {
+    -fx-background-color: transparent;
+    -fx-padding: 8 15;
+}
+
+/* Fully override JavaFX internal selection behavior */
+.suggestion-item:focused,
+.suggestion-item:armed,
+.suggestion-item:selected {
+    -fx-background-color: transparent !important;
+    -fx-text-fill: inherit !important;
+}
+
+/* Hover state: background colored, text visible */
+.suggestion-item:hover {
+    -fx-background-color: #5a67d8 !important;
+}
+
+.suggestion-item:hover .label {
+    -fx-text-fill: black !important;
+}
+
+.suggestion-item .label {
+    -fx-text-fill: inherit;
+}
+
+/* Dialog Styles */
+.dialog-content {
+    -fx-background-color: white;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: #e2e8f0;
+    -fx-border-width: 1;
+    -fx-min-width: 400px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 10, 0, 0, 4);
+}
+
+.dialog-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2d3748;
+    -fx-padding: 0 0 10 0;
+}
+
+.error-text {
+    -fx-fill: #e53e3e;
+    -fx-font-size: 14px;
+    -fx-padding: 5 0;
+}
+
+.primary-button {
+    -fx-background-color: #5a67d8;
+    -fx-text-fill: white;
+    -fx-padding: 8 15;
+    -fx-cursor: hand;
+}
+
+.primary-button:hover {
+    -fx-background-color: #4c51bf;
+}
+
+.cancel-button {
+    -fx-background-color: #e2e8f0;
+    -fx-text-fill: #4a5568;
+    -fx-padding: 8 15;
+    -fx-cursor: hand;
+}
+
+.cancel-button:hover {
+    -fx-background-color: #cbd5e0;
+}

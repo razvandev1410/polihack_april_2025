@@ -1,7 +1,14 @@
 package org.example;
 
+import org.example.repository.entitiesRepository.GeneDiseaseDrugCompoundRepository;
 import org.example.repository.entitiesRepository.UserRepository;
+import org.example.repository.interfaces.IGeneDiseaseDrugCompoundRepository;
+import org.example.repository.interfaces.IUserRepository;
 import org.example.service.AllServices;
+import org.example.service.GeneDiseaseDrugCompundService;
+import org.example.service.UserService;
+import org.example.service.interfaces.IGeneDiseaseDrugCompoundService;
+import org.example.service.interfaces.IUserService;
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -26,30 +33,22 @@ public class GeneExplorerConfig {
         return properties;
     }
 
-
-    /*@Bean
-    MatchInterface MatchRepo() {
-        return new MatchRepository(getProperties());
+    @Bean
+    IGeneDiseaseDrugCompoundRepository geneDiseaseDrugCompoundRepository() {
+        return new GeneDiseaseDrugCompoundRepository(getProperties());
     }
 
     @Bean
-    TicketInterface TicketRepo() {
-        return new TicketRepository(getProperties());
-    }
-
-    @Bean
-    UserInterface UserRepo() {
+    IUserRepository userRepository() {
         return new UserRepository(getProperties());
     }
 
     @Bean
-    TicketSellerRepoInterface ticketSellerRepository() {
-        return new TicketSellerRepository(getProperties());
-    }
-`   */
-    @Bean
     AllServices services(){
-        return new AllServices();
+        return new AllServices(
+                new UserService(userRepository()),
+                new GeneDiseaseDrugCompundService(geneDiseaseDrugCompoundRepository(), userRepository())
+        );
     }
 
 }

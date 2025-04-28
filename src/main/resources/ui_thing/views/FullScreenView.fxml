@@ -1,44 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?import javafx.geometry.Pos?>
-<?import javafx.scene.control.TextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
-<?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.*?>
 
-<BorderPane xmlns:fx="http://javafx.com/fxml/1"
+<?import javafx.scene.canvas.Canvas?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="org.example.controller.FullScreenController"
-            stylesheets="@/ui_thing/views/style.css">
+            stylesheets="@/ui_thing/views/style.css"
+            fx:id="rootPane">
 
+    <!-- Top Navigation Bar -->
     <top>
-        <!-- HBox with spacing and optional alignment for vertical centering -->
         <HBox fx:id="topBar" spacing="15" styleClass="top-bar" alignment="CENTER_LEFT">
-
-            <!-- App Icon (Left) -->
-            <ImageView fx:id="logoImageView" fitHeight="60" fitWidth="50" preserveRatio="true">
-                <image>
-                    <Image url="@../logoBrand.png"/>
-                </image>
-            </ImageView>
-
-            <!-- Region expands to push the items that follow to the right -->
-            <Region HBox.hgrow="ALWAYS" />
-
-            <!-- Search Field -->
-            <TextField fx:id="searchField" promptText="Search gene..." styleClass="search-field" />
-
-            <!-- User Icon -->
-            <ImageView fx:id="userIcon" fitHeight="50" fitWidth="50" preserveRatio="true">
-                <image>
-                    <Image url="@../loginLogo.png" />
-                </image>
-            </ImageView>
+            <HBox alignment="CENTER_LEFT" spacing="10">
+                <ImageView fx:id="logoImageView" fitHeight="40" fitWidth="40" preserveRatio="true">
+                    <image><Image url="@../logoBrand.png"/></image>
+                </ImageView>
+                <Label text="Drug Repurposing" styleClass="app-title"/>
+            </HBox>
+            <Region HBox.hgrow="ALWAYS"/>
+            <!-- Search Container -->
+            <HBox fx:id="searchContainer" alignment="CENTER" styleClass="search-container">
+                <TextField fx:id="searchField"
+                           promptText="Search gene..."
+                           styleClass="search-field-inset"/>
+                <Button fx:id="searchButton" styleClass="search-button">
+                    <graphic>
+                        <ImageView fitWidth="20" fitHeight="20" preserveRatio="true">
+                            <image><Image url="@../searchLogo.png"/></image>
+                        </ImageView>
+                    </graphic>
+                </Button>
+            </HBox>
+            <!-- User Icon & Popup Toggle -->
+            <StackPane>
+                <ImageView fx:id="userIcon"
+                           fitHeight="40" fitWidth="40"
+                           styleClass="user-icon"
+                           preserveRatio="true"
+                           onMouseClicked="#showUserMenu">
+                    <image><Image url="@../loginLogo.png"/></image>
+                </ImageView>
+            </StackPane>
+            <padding>
+                <Insets top="15" right="20" bottom="15" left="20"/>
+            </padding>
         </HBox>
     </top>
 
+    <!-- Main Content Area -->
     <center>
-        <!-- Your main content -->
+        <HBox>
+            <VBox styleClass="sidebar">
+                <Button text="Dashboard" styleClass="sidebar-button, active"/>
+                <Button text="Gene Search" styleClass="sidebar-button"/>
+                <Button text="Drug Database" styleClass="sidebar-button"/>
+                <Button text="Analysis" styleClass="sidebar-button"/>
+                <Button text="Reports" styleClass="sidebar-button"/>
+            </VBox>
+
+            <!-- stack our two center‐views: dashboardPane & graphPane -->
+            <StackPane fx:id="centerStack" HBox.hgrow="ALWAYS">
+
+                <!-- 1) the existing Dashboard content, in a ScrollPane -->
+                <ScrollPane fx:id="dashboardPane"
+                            fitToWidth="true"
+                            fitToHeight="true"
+                            styleClass="content-area">
+                    <content>
+                        <VBox spacing="20" styleClass="dashboard-content" HBox.hgrow="ALWAYS">
+                            <Label text="Dashboard" styleClass="page-title"/>
+                            <GridPane hgap="20" vgap="20">
+                                <columnConstraints>
+                                    <ColumnConstraints hgrow="ALWAYS" percentWidth="33.3"/>
+                                    <ColumnConstraints hgrow="ALWAYS" percentWidth="33.3"/>
+                                    <ColumnConstraints hgrow="ALWAYS" percentWidth="33.3"/>
+                                </columnConstraints>
+                                <VBox styleClass="stat-card, blue-card" GridPane.columnIndex="0" GridPane.rowIndex="0">
+                                    <Label text="Total Genes" styleClass="stat-title"/>
+                                    <Label text="24,685" styleClass="stat-value"/>
+                                </VBox>
+                                <VBox styleClass="stat-card, green-card" GridPane.columnIndex="1" GridPane.rowIndex="0">
+                                    <Label text="Drug Candidates" styleClass="stat-title"/>
+                                    <Label text="12636" styleClass="stat-value"/>
+                                </VBox>
+                                <VBox styleClass="stat-card, orange-card" GridPane.columnIndex="2" GridPane.rowIndex="0">
+                                    <Label text="Target Pathways" styleClass="stat-title"/>
+                                    <Label text="366" styleClass="stat-value"/>
+                                </VBox>
+                            </GridPane>
+                            <VBox spacing="10">
+                                <Label text="Recent Activity" styleClass="section-title"/>
+                                <!-- …you can fill this with your existing recent‐activity list… -->
+                            </VBox>
+                            <padding>
+                                <Insets top="20" right="20" bottom="20" left="20"/>
+                            </padding>
+                        </VBox>
+                    </content>
+                </ScrollPane>
+
+                <!-- 2) the graph canvas, hidden until after a search -->
+                <ScrollPane fx:id="graphPane"
+                            visible="false"
+                            managed="false"
+                            pannable="true"
+                            fitToWidth="true"
+                            fitToHeight="true"
+                            styleClass="content-area">
+                    <content>
+                        <Canvas fx:id="graphCanvas"
+                                width="2000"
+                                height="2000"/>
+                    </content>
+                </ScrollPane>
+
+            </StackPane>
+        </HBox>
     </center>
+
+    <!-- User Menu Popup -->
+    <AnchorPane fx:id="userMenuPopup"
+                visible="false"
+                managed="false"
+                styleClass="user-menu-popup"
+                BorderPane.alignment="TOP_RIGHT">
+        <VBox fx:id="userMenuContent" spacing="0" styleClass="user-menu-content">
+            <Button fx:id="myAccountButton" text="My Account"
+                    styleClass="user-menu-button" maxWidth="Infinity"
+                    onAction="#handleMyAccount"/>
+            <Button fx:id="geneSearchesButton" text="Gene Searches"
+                    styleClass="user-menu-button" maxWidth="Infinity"
+                    onAction="#handleGeneSearches"/>
+            <Button fx:id="settingsButton" text="Settings"
+                    styleClass="user-menu-button" maxWidth="Infinity"
+                    onAction="#handleSettings"/>
+            <Button fx:id="loginButton" text="Log In"
+                    styleClass="user-menu-button" maxWidth="Infinity"
+                    onAction="#handleLogin"/>
+            <Button fx:id="signUpButton" text="Sign Up"
+                    styleClass="user-menu-button" maxWidth="Infinity"
+                    onAction="#handleSignUp"/>
+            <Button fx:id="logOutButton" text="Log Out"
+                    styleClass="user-menu-button, log-out" maxWidth="Infinity"
+                    onAction="#handleLogout"/>
+        </VBox>
+    </AnchorPane>
+
 </BorderPane>

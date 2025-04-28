@@ -5,10 +5,15 @@ import com.google.gson.annotations.SerializedName;
 public class Drug extends Entity<String>{
     @SerializedName("description")
     private String aliases;
+    private String name;
 
     public Drug(String ID, String aliases) {
         setId(ID);
         this.aliases = aliases;
+    }
+
+    public Drug(String name){
+        this.name = name;
     }
 
 
@@ -18,5 +23,13 @@ public class Drug extends Entity<String>{
 
     public void setAliases(String aliases) {
         this.aliases = aliases;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }

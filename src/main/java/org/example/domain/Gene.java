@@ -18,6 +18,7 @@ public class Gene extends Entity<Long>{
         this.summary = summary;
     }
 
+
     public String getSummary() {
         return summary;
     }
